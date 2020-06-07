@@ -17,6 +17,16 @@
                     "title": "官网链接",
                     "url": "https://coding3min.com",
                     "target": true
+                },
+                {
+                    "title": "首页",
+                    "url": "kancloud.cn/coding3min/coding3min/content",
+                    "target": false
+                },
+                {
+                    "title": "go语言应急手册",
+                    "url": "kancloud.cn/coding3min/golang/content",
+                    "target": false
                 }
             ]
         },
