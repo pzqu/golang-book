@@ -1,9 +1,25 @@
 {
     "plugins": [
         "highlight",
+        "image-zoom",
         "comment",
         "copy-code",
-        "image-zoom",
-        "sql-table"
-    ]
+        "sql-table",
+        "dzan"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "auto_open": true,
+            "show_nav": true,
+            "logo": {},
+            "navs": [
+                {
+                    "title": "官网链接",
+                    "url": "https://coding3min.com",
+                    "target": true
+                }
+            ]
+        },
+        "highlight": {}
+    }
 }
