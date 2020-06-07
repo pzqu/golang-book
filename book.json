@@ -21,12 +21,12 @@
                 {
                     "title": "首页",
                     "url": "https://kancloud.cn/coding3min/coding3min/content",
-                    "target": false
+                    "target": true
                 },
                 {
                     "title": "go语言应急手册",
                     "url": "https://kancloud.cn/coding3min/golang/content",
-                    "target": false
+                    "target": true
                 }
             ]
         },
