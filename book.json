@@ -22,6 +22,11 @@
                     "title": "小册首页",
                     "url": "https://www.kancloud.cn/coding3min/coding3min/content",
                     "target": false
+                },
+                {
+                    "title": "中间件应急手册",
+                    "url": "https://www.kancloud.cn/coding3min/playdb/content",
+                    "target": false
                 }
             ]
         },
