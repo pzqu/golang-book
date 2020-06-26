@@ -1,3 +1,2 @@
 script:
-
-  + sh .travis-push.sh
+  - sh .travis-push.sh
