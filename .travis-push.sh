@@ -3,7 +3,7 @@
 #看云版本库地址:
 KY_REPO=https://git.kancloud.cn/coding3min/golang.git
 #github仓库地址：
-GH_REPO=https://github.com/pzqu/golang-book.git
+GH_REPO=https://github.com/minibear2333/golang-book.git
 
 KY_REPO_URL=https://${KANCLOUD_USER}:${KANCLOUD_PASS}@$(echo $KY_REPO | awk -F'//' '{print $2}')
 GH_REPO_URL=https://${GITHUB_TOKEN}@$(echo $GH_REPO | awk -F'//' '{print $2}')
