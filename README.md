@@ -29,3 +29,5 @@
     * [切片排序sort包的使用](番外、常用操作/切片排序sort包的使用.md)
     * [包管理神器go mod](番外、常用操作/官方golang包管理神器gomod.md)
     * [Golang打镜像Dockerfile的写法](番外、常用操作/Golang打镜像Dockerfile的写法.md)
+    * [等待goroutine完成任务，循环中使用goroutine](番外、常用操作/等待goroutine完成任务，循环中使用goroutine.md)
+    * [kinping.flag包读取命令行配置](番外、常用操作/kinping.flag包读取命令行配置.md)
